@@ -20,6 +20,9 @@ M.base46 = {
     NvimTreeNormalNC = {
       bg = "NONE",
     },
+    NvimTreeWinSeparator = {
+      bg = "NONE",
+    },
     TbFill = {
       bg = "NONE",
     },
